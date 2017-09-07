@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My CLI Gem Project"
-date:   2017-09-06 20:55:04 +0000
+date:   2017-09-06 16:55:05 -0400
 ---
 
 While moving through the OO Ruby part of the Learn.co curriculum, I noticed scraping was an upcoming topic. It was a subject I could really look forward to because of the utility in learning how to grab data off the internet. Sure enough, I enjoyed the lesson, was glad to get more practice writing CSS selectors, and promptly set to work writing a scraper for my personal use.
@@ -18,4 +18,4 @@ After a couple days observing common formats of post names (and writing CSS sele
 
 [RubyGems](https://rubygems.org/gems/ebookdealinfo)
 
-[![EbookDealInfo](https://imgur.com/a/1wrdz)](https://www.youtube.com/watch?v=UEzGCP_sPdQ)
+[Ebook Deal Info Demonstration Video](https://www.youtube.com/watch?v=UEzGCP_sPdQ)
